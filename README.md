@@ -8,11 +8,11 @@
 
 <!-- Social Badges -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/shahariyar-rakib-b21682355/" target="_blank">
+  <a href="https://www.linkedin.com/in/maruf6/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 
-  <a href="https://www.facebook.com/shahariyar.rakib.2024/" target="_blank">
+  <a href="https://www.facebook.com/lipumarufhasan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
 
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" />
   </a>
 
-  <a href="https://www.instagram.com/shahariyar_rakib_369/" target="_blank">
+  <a href="lipumarufhasan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
 
@@ -32,11 +32,11 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
 
-  <a href="https://wa.me/8801709801263" target="_blank">
+  <a href="https://wa.me/8801717107939" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
   </a>
 
-  <a href="mailto:shahariyarrakib780@gmail.com" target="_blank">
+  <a href="mailto:marufhasanlipu@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
 </div>
@@ -70,11 +70,11 @@ I love exploring new tech stack ðŸ’» and leveraging them to build cool stuff ðŸ›
 ### <img src="https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif" width="40px" height="40px"> **Connect With Me**
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/shahariyar-rakib-b21682355" target="_blank">
+  <a href="https://www.linkedin.com/in/maruf6/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 
-  <a href="https://www.facebook.com/shahariyar.rakib.2024/" target="_blank">
+  <a href="https://www.facebook.com/lipumarufhasan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
   </a>
 
@@ -86,11 +86,11 @@ I love exploring new tech stack ðŸ’» and leveraging them to build cool stuff ðŸ›
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="42" alt="discord logo" />
   </a>
 
-  <a href="https://wa.me/8801709801263" target="_blank">
+  <a href="https://wa.me/8801717107939" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="42" alt="whatsapp logo" />
   </a>
 
-  <a href="https://www.instagram.com/shahariyar_rakib_369/" target="_blank">
+  <a href="lipumarufhasan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="42" alt="instagram logo" />
   </a>
 </div>
