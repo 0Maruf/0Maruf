@@ -3,7 +3,7 @@
 
 <!-- Profile Views -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Shahariya-17&label=Profile%20views&color=0e75b6&style=flat" alt="Shahariya-17" />
+  <img src="https://komarev.com/ghpvc/?username=0Maruf&label=Profile%20views&color=0e75b6&style=flat" alt="0Maruf" />
 </p>
 
 <!-- Social Badges -->
@@ -136,11 +136,11 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuff �
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **GitHub stats ↓**
 
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shahariya-17&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=0Maruf&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br><br>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Shahariya-17&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=0Maruf&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahariya-17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0Maruf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <br>
